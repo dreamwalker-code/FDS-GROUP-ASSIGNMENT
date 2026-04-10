@@ -1,4 +1,4 @@
-# FDS-GROUP 2-ASSIGNMENT
+# 🛡️ FDS-GROUP 2-ASSIGNMENT
 
 # 🔐 CSE-CIC-IDS2018 Intrusion Detection System
 
@@ -24,7 +24,7 @@ This project implements a **Network Intrusion Detection System (IDS)** using the
 
 ---
 
-## 👥 Group Information
+## 👥 Group 2 - Team Information
 
 ### Team Members
 
@@ -42,6 +42,7 @@ This project implements a **Network Intrusion Detection System (IDS)** using the
 | Field | Information |
 |-------|-------------|
 | **Course** | Data Science |
+| **Group Number** | **Group 2** |
 | **Instructor** | Dr. Ashfaq Ahmad Najar |
 | **Assignment** | Group Project - Intrusion Detection System |
 | **Submission Date** | April 16, 2026 |
@@ -99,10 +100,10 @@ This project implements a **Network Intrusion Detection System (IDS)** using the
 
 ## 🔗 Dataset Access Links
 
-| Source   | Link | Status |
-|--------------------------|------|--------|
+| Source | Link | Status |
+|--------|------|--------|
 | **Official CIC Website** | https://www.unb.ca/cic/datasets/ids-2018.html | Reference |
-| **Kaggle (Used)**        | https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv | ✅ Working |
+| **Kaggle (Used)** | https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv | ✅ Working |
 | **AWS S3** | s3://cse-cic-ids2018/ | Official source |
 | **Google Drive Mirror** | https://drive.google.com/file/d/1EMe83pWkccHg3mD5LLuCaHURjYjx7fjo/view | Alternative |
 
@@ -124,11 +125,15 @@ This project implements a **Network Intrusion Detection System (IDS)** using the
 
 ### Option 1: Run in Google Colab (Recommended)
 
-[![Open In Colab](https://colab.research.google.com/drive/1rSC2BGttJGzS3eDuOaihkxKCsqH4mfFa#scrollTo=hzg1Fe1F5AiD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rSC2BGttJGzS3eDuOaihkxKCsqH4mfFa?usp=sharing)
 
+> **Direct Colab Link:** https://colab.research.google.com/drive/1rSC2BGttJGzS3eDuOaihkxKCsqH4mfFa?usp=sharing
+
+Click the badge above or the direct link to open the notebook in Google Colab.
 
 ### Option 2: Run Locally
 
 1. **Clone the repository**
    ```bash
-   https://github.com/dreamwalker-code/FDS-GROUP-ASSIGNMENT/blob/main/CIC_IDS2018_Intrusion_Detection.ipynb
+   git clone https://github.com/dreamwalker-code/FDS-GROUP-ASSIGNMENT.git
+   cd FDS-GROUP-ASSIGNMENT
