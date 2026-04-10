@@ -41,7 +41,7 @@ This project implements a **Network Intrusion Detection System (IDS)** using the
 
 | Field | Information |
 |-------|-------------|
-| **Course** | Data Science |
+| **Course** |Foundations of Data Science |
 | **Group Number** | **Group 2** |
 | **Instructor** | Dr. Ashfaq Ahmad Najar |
 | **Assignment** | Group Project - Intrusion Detection System |
