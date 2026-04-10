@@ -1,4 +1,4 @@
-# FDS-GROUP-ASSIGNMENT
+# FDS-GROUP 2-ASSIGNMENT
 
 # 🔐 CSE-CIC-IDS2018 Intrusion Detection System
 
