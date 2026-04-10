@@ -126,11 +126,9 @@ This project implements a **Network Intrusion Detection System (IDS)** using the
 
 [![Open In Colab](https://colab.research.google.com/drive/1rSC2BGttJGzS3eDuOaihkxKCsqH4mfFa#scrollTo=hzg1Fe1F5AiD)
 
-> **Note:** Replace `[YOUR_USERNAME]` with your actual GitHub username after creating the repository.
 
 ### Option 2: Run Locally
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/[YOUR_USERNAME]/CIC-IDS2018-Intrusion-Detection-Group-7.git
-   cd CIC-IDS2018-Intrusion-Detection-Group-7
+   https://github.com/dreamwalker-code/FDS-GROUP-ASSIGNMENT/blob/main/CIC_IDS2018_Intrusion_Detection.ipynb
