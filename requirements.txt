@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tensorflow or pytorch (if using deep learning)
+imbalanced-learn
+xgboost
