@@ -1,4 +1,4 @@
-# 🛡️ FDS-GROUP 2-ASSIGNMENT
+# 🛡️ Foundations of Data Science-GROUP 2-ASSIGNMENT
 
 # 🔐 CSE-CIC-IDS2018 Intrusion Detection System
 
