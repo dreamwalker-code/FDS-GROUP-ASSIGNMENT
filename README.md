@@ -45,7 +45,7 @@ This project implements a **Network Intrusion Detection System (IDS)** using the
 | **Group Number** | **Group 2** |
 | **Instructor** | Dr. Ashfaq Ahmad Najar |
 | **Assignment** | Group Project - Intrusion Detection System |
-| **Submission Date** | April 16, 2026 |
+| **Submission Date** | April 11, 2026 |
 
 ---
 
