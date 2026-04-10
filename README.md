@@ -124,7 +124,7 @@ This project implements a **Network Intrusion Detection System (IDS)** using the
 
 ### Option 1: Run in Google Colab (Recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR_USERNAME]/CIC-IDS2018-Intrusion-Detection-Group-7/blob/main/notebooks/CIC_IDS2018_Intrusion_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1rSC2BGttJGzS3eDuOaihkxKCsqH4mfFa#scrollTo=hzg1Fe1F5AiD)
 
 > **Note:** Replace `[YOUR_USERNAME]` with your actual GitHub username after creating the repository.
 
